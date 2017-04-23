@@ -151,7 +151,9 @@ And this will be the day -- this will be the day when all of God's children
 will be able to sing with new meaning:
 
 > My country 'tis of thee, sweet land of liberty, of thee I sing.
+>
 > Land where my fathers died, land of the Pilgrim's pride,
+>
 > From every mountainside, let freedom ring!
 
 And if America is to be a great nation, this must become true.
@@ -179,4 +181,5 @@ Jews and Gentiles, Protestants and Catholics, will be able to join hands and
 sing in the words of the old Negro spiritual:
 
 > Free at last! Free at last!
+>
 > Thank God Almighty, we are free at last!
